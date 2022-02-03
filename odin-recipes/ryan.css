@@ -1,0 +1,19 @@
+body {
+  font-family: "Garamond", sans-serif;
+  background-color: #3d3d3d;
+  color: darkorange;
+  width: 500px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+
+a {
+  color: rgb(214, 68, 0);
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
